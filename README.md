@@ -1,25 +1,25 @@
 # Hi there 👋
 
-I'm **Artem Onufriichuk**, a passionate **Full-Stack Developer** based in Uzhgorod, Ukraine. I specialize in creating scalable and efficient web applications and automations that solve real-world problems.
+I'm **Artem Onufriichuk**, a passionate **Front-End** based **Full-Stack Developer** in Uzhgorod, Ukraine. I specialize in creating scalable and efficient web applications that solve real-world problems.
 
 ---
 
 ## 🔧 Tech Skills
 
 - **Programming:** JavaScript (ES6+), TypeScript, Node.js  
-- **Frameworks & Libraries:** React, Redux, Next.js, Styled Components  
-- **Automation:** n8n workflows, Cursor development  
-- **Development Tools:** Git, REST APIs, Firebase, Electron  
+- **Frameworks & Libraries:** React, Redux, Next.js, Styled Components, Tailwind  
+- **Development Tools:** Git, REST APIs, Firebase
 - **Testing:** Jest, React Testing Library (RTL)  
-- **UI/UX:** HTML, CSS (SCSS), Figma, Photoshop
+- **UI/UX:** HTML, CSS (SCSS), Figma, Photoshop ets.  
+- **Automation:** n8n workflows, Cursor, V0 development, GPT, Telegram, Google automations
 
 ---
 
 ## 🚀 About Me
 
 - 🔄 I’m constantly learning new tools and technologies to improve my craft.
-- 🌐 I enjoy creating automations to streamline workflows and boost efficiency.
-- 🤖 My current focus is expanding my backend expertise with **Node.js** and **full-stack development**.
+- 🌐 I enjoy creating best UI/UX scalable apps and starting with automations to streamline workflows and boost efficiency.
+- 🤖 I found myself in programming and for me it is not just my favorite job, but also one of my hobbies. My plan
 
 ---
 
@@ -50,7 +50,7 @@ I'm **Artem Onufriichuk**, a passionate **Full-Stack Developer** based in Uzhgor
 
 **Computer Science Magister**  
 _Pridneprovsk State Academy of Civil Engineering and Architecture_  
-*09/2016 – Present | Dnipro, Ukraine*
+*09/2016 – 06/2022 | Dnipro, Ukraine*
 
 ---
 
@@ -64,9 +64,11 @@ _Pridneprovsk State Academy of Civil Engineering and Architecture_
 
 ## 🎨 Featured Projects
 
-- **Fintech Platform:** Streamlined customer onboarding using React and n8n workflows.  
-- **Task Automation Tools:** Designed custom **n8n nodes** to optimize processes.  
-- **E-Commerce Dashboard:** Built a scalable dashboard with Next.js and Node.js backend.
+- **Commerce site for Bank "NDA"** Large, scalable custom site with page editor and complex admin platform, statistics, metricks, ets.
+- **Fintech Platform:** Streamlined customer onboarding, invoicing, and realtime-data management using React workflows.  
+- **Task Automation Tools:** Designed custom **n8n nodes** to optimize business processes.  
+- **E-Commerce Dashboard:** Built a scalable dashboard with Next.js and a Node.js backend.  
+- **Automation Suite:** Developed an automation suite integrating GPT, Telegram, and Google automations to enhance customer engagement.  
 
 ---
 
