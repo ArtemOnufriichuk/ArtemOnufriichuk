@@ -7,9 +7,9 @@ I'm **Artem Onufriichuk**, a passionate **Front-End** based **Full-Stack Develop
 ## 🔧 Tech Skills
 
 - **Programming:** JavaScript (ES6+), TypeScript, Node.js  
-- **Frameworks & Libraries:** React, Redux, Next.js, Styled Components, Tailwind  
+- **Frameworks & Libraries:** React, Redux, Zustand, Next.js, Styled Components, Tailwind  
 - **Development Tools:** Git, REST APIs, Firebase
-- **Testing:** Jest, React Testing Library (RTL)  
+- **Testing:** Jest, React Testing Library (RTL), Pupiter
 - **UI/UX:** HTML, CSS (SCSS), Figma, Photoshop ets.  
 - **Automation:** n8n workflows, Cursor, V0 development, GPT, Telegram, Google automations
 
